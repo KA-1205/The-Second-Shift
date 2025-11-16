@@ -69,7 +69,7 @@ const Pitch = () => {
               variant="secondary"
               size="lg"
               className="font-bold gap-2 shadow-glow hover:scale-105 transition-all"
-              onClick={() => window.open('/pitch-deck.pdf', '_blank')}
+              onClick={() => window.open('https://youtu.be/WuZJ96dcB9M', '_blank')}
             >
               <Play className="w-5 h-5" />
               Open Video
