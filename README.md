@@ -2,8 +2,7 @@
 
 THE SECOND SHIFT - AI Career Re-Entry Coach for Women Empowering women to confidently re-enter the workforce through personalized skill analysis, AI-driven guidance, and flexible job opportunities.
 
-**Pitch Link**: [Insert Pitch Deck Link Here]
-
+**Pitch Link**: https://youtu.be/WuZJ96dcB9M
 ---
 
 ## 🚀 Getting Started
