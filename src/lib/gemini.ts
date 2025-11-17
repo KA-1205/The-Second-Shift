@@ -1,6 +1,6 @@
 // Google Gemini API integration for AI features
 
-const GEMINI_API_KEY = "AIzaSyCSHVhKEBk1J4SeiRUSlyvH90rHoRqcpp0";
+const GEMINI_API_KEY = "Your_API_KEY";
 const GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent";
 
 interface GeminiResponse {
