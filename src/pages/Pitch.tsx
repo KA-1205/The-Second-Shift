@@ -27,7 +27,7 @@ const Pitch = () => {
     },
     {
       stream: "Hiring Partnerships",
-      description: "Success-based fees from companies",
+      description: "Success-based fees from users",
       potential: "₹5,000-15,000 per placement"
     },
     {
